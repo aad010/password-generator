@@ -1,4 +1,4 @@
-This application allows users to generate 15-letter passwords.
+This application allows users to generate two randomized 15-letter passwords at the click of one button.
 
 URL Link: https://arb-pass-gen.netlify.app/  
 
